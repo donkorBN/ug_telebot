@@ -8,4 +8,4 @@ This bot was created by donkorBN to help students deal with stress and depressio
 
 # Stress
 
-You can talk to the bot about everything; your day, how it end and everything else
+You can talk to the bot about everything; your day, how it ended and everything else
